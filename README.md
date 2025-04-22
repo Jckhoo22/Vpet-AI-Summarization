@@ -6,7 +6,7 @@ AiPaw is an intelligent Chrome extension that lives as a virtual pet on your bro
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running, follow these simple steps.
 
 # Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
+These are some of the pre-setup environment requirements needed by the project.
 
 ## Chrome & Extension Setup
 1. Download [Google Chrome]([https://www.google.com/chrome/bsem/download/en_uk?brand=CHBF&ds_kid=43700078853713665&&utm_source=bing&utm_medium=cpc&utm_campaign=1709650%20%7C%20Chrome%20Win11%20%7C%20DR%20%7C%20ESS01%20%7C%20APAC%20%7C%20APAC%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20%7C%20Bing&utm_term=install%20google%20chrome%20browser&utm_content=_](https://www.google.com/chrome/bsem/download/en_uk?brand=CHBF&ds_kid=43700078853713665&&utm_source=bing&utm_medium=cpc&utm_campaign=1709650%20%7C%20Chrome%20Win11%20%7C%20DR%20%7C%20ESS01%20%7C%20APAC%20%7C%20APAC%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20%7C%20Bing&utm_term=install%20google%20chrome%20browser&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt_Install&gclid=fd6a4716237e13ab782c2f11af903152&gclsrc=3p.ds&gad_source=7))
