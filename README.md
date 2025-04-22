@@ -22,5 +22,6 @@ This is an example of how to list things you need to use the software and how to
 
 ### Load the Chrome Extension
 1. Open chrome://extensions
-3. Click Load Unpacked
-4. Select the /extension folder
+2. Click Load Unpacked
+   ![image](https://github.com/user-attachments/assets/2a2c7af1-999f-419a-9a78-208da0644c20)
+3. Select the /extension folder
